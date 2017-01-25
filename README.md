@@ -1,6 +1,5 @@
-# ServicioRestVentas
-Servicio Rest Ventas con Node js
+# Servicio Rest Ventas Node JS
 
-Servicio que permite consumir "Ventas", el servicio desarrollado con base de datos mysql.
+Servicio que permite consumir "Ventas", desarrollado con base de datos mysql.
 
 Desarrollado con fines academicos.
